@@ -1,1 +1,1 @@
-Thực hành từng bài, bắt đầu từ bài trong foulder 1 
+Thực hành từng bài, bắt đầu từ bài trong folder 1 
