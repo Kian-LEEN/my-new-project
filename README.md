@@ -1,1 +1,1 @@
-Bai thuc hanh tao du an tren github
+Thực hành từng bài, bắt đầu từ bài trong foulder 1 
